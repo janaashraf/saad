@@ -1,7 +1,7 @@
 #include<iostream>
 
 using namespace std;
-int square (int a) {
+int square_of_a_num (int a) {
     return a * a;
 }
 int main() {
