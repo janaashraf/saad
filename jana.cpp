@@ -5,5 +5,6 @@ int square_of_a_num (int a) {
     return a * a;
 }
 int main() {
-    cout << "new featureeee";
+    cout << "new";
+    cout<<"blaaaaaaaaaaaaaaaaaaaa";
 }
